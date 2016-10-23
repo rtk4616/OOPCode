@@ -1,3 +1,5 @@
+package test;
+
 /**
    This class demonstrates a static field.
 */

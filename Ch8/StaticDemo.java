@@ -1,3 +1,5 @@
+package test;
+
 /**
    This program demonstrates the Countable class.
 */
